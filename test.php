@@ -2,7 +2,7 @@
 
 namespace Cs;
 
-// just for testing git hooks for jenkins
+// just for testing git hooks for jenkins ...
 class handleArray
 {
 
