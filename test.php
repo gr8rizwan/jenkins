@@ -1,6 +1,8 @@
 <?php
 
 namespace Cs;
+
+// just for testing git hooks for jenkins
 class HandleArray
 {
 
