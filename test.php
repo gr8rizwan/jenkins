@@ -1,7 +1,7 @@
 <?php
 
-// namespace Cs;
-class handleArray
+namespace Cs;
+class HandleArray
 {
 
     public static function printArray($myArray)
