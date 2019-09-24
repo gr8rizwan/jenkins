@@ -3,7 +3,7 @@
 namespace Cs;
 
 // just for testing git hooks for jenkins
-class HandleArray
+class handleArray
 {
 
     public static function printArray($myArray)
