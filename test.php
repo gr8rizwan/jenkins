@@ -1,6 +1,6 @@
 <?php
 
-namespace Cs;
+// namespace Cs;
 class handleArray
 {
 
