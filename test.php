@@ -6,6 +6,6 @@ class HandleArray
 
     public static function printArray($myArray)
     {
-        print_r( $myArray );
+        print_r($myArray);
     }
 }
